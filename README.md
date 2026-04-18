@@ -92,7 +92,8 @@ files.download('runs/detect/train/weights/best.pt')
 ## Hướng dẫn chạy thử dự án  
 ### Bước 1: Lấy dự án về máy cá nhân và lưu trong folder bất kỳ  
 ```bash
-git clone https://github.com/trdphatphattran/Digital-Image-Processing.git
+git clone https://github.com/TranNhuKhaY512/DeepFruit-Detector.git
+cd DeepFruit-Detector
 ```
 
 ### Bước 2: Dùng VSCode chạy thử dự án  
